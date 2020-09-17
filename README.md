@@ -11,4 +11,14 @@ As an example the presented website has been refactored to increase its accessib
 * Added website title is short and descriptive
 * Addition of alt attributes to all images
 ## Access
+The website can be accessed from [HERE](https://pavn93.github.io/Website-accessibility-improvements/.)  
+Link to full repository on github: https://github.com/PavN93/Website-accessibility-improvements.git  
+Website preview:  
+![Horiseon-website](./assets/images/Horiseon-screenshot.png)
+## Build with
+* [Visual Studio Code](https://code.visualstudio.com/)  
+* HTML  
+* CSS  
+## Contact
+* e-mail: paweln993@gmail.com
 
